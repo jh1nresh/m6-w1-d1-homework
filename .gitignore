@@ -1,4 +1,5 @@
 node_modules/
+react-app/build/
 .DS_Store
 .mongo-data/
 .mongo.log
